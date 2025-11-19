@@ -1,4 +1,4 @@
-```markdown
+
 # Topic Retrieval API
 
 This project implements a lightweight Node.js and Express-based API that retrieves topic data stored inside a JSON file. It supports searching topics by name, validates incoming queries, handles file-related errors, and optionally sorts results alphabetically. The purpose of this API is to replicate behaviour similar to TOTLE's `/api/catalogue/` endpoint for a coding assessment.
@@ -142,4 +142,5 @@ curl "http://localhost:3000/api/topics?search=css&sort=name"
 
 ---
 ```
+
 
