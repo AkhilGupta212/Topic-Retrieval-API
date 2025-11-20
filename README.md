@@ -140,7 +140,6 @@ http://localhost:3000/api/topics?search=css
 curl "http://localhost:3000/api/topics?search=css&sort=name"
 ```
 
----
-```
+
 
 
