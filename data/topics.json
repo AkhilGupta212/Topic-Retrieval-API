@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Graph Theory", "category": "Algorithms" },
+  { "id": 2, "name": "Dynamic Programming", "category": "Algorithms" },
+  { "id": 3, "name": "React Basics", "category": "Frontend" },
+  { "id": 4, "name": "Node.js Streams", "category": "Backend" },
+  { "id": 5, "name": "Database Indexing", "category": "Databases" },
+  { "id": 6, "name": "CSS Grid", "category": "Frontend" }
+]
